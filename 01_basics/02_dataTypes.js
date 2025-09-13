@@ -1,6 +1,6 @@
 "use strict"; // treat all JS code as newer version.
 
-// alert(3 + 3); // We are using nodejs for running not browser. So, the behaviour...
+// alert(3 + 3); // We are using nodejs for running, not browser. So, the behaviour...
 
 // https://tc39.es/ecma262/     // Official documentation for Ecmascript standard
 
